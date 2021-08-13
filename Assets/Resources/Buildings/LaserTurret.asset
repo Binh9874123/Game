@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9252ce62c7eef9478eb095043fea112, type: 3}
+  m_Name: LaserTurret
+  m_EditorClassIdentifier: 
+  Building: {fileID: 3876392678249058211, guid: c1ed9f47110065c488fa8985cf47ea68,
+    type: 3}
+  Name: Laser Tower
+  Price: 100
+  Icon: {fileID: 21300000, guid: d68110a2ef5441e4e80ea03a7ba27f0e, type: 3}
